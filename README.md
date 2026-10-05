@@ -1,2 +1,0 @@
-# trial-repository
-add.py
